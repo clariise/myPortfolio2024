@@ -1,6 +1,10 @@
 function NotFound () {
     return (
-        <h1>404 Not Found</h1>
+
+        <div className="mt-5 p-5">
+<h1 className="text-center align-item-center">404 Not Found</h1>
+        </div>
+        
     )
 }
 
